@@ -1,0 +1,49 @@
+//Sprint 1 Backlog.
+Oct 21st to 27th
+
+Tasks to be done:
+1) Discuss CRC cards and choose the most fitting design.
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I want to able to interact with the shell.
+b) As a user, I want to be able to navigate through the file system.
+c) As a user, I want to be able to receive a message for syntactical errors.
+d) As a user, I want to be able to quit the program.
+e) As a user, I want to be able to print the documentation for a list of commands.
+f) As a user, I want to be able to create directories.	
+g) As a user, I want to be able to print the full path of the current working directory.
+
+Specific tasks to be accomplished:
+
+a-1. (JShell) Create a prompt for the user.
+a-2. (JShell) Accept user input.
+
+b-1. (FileSystem) Create a tree structure for directories.
+b-2. (FileSystem) Create the root directory/node.
+
+c-1. (Parser) Parse user input and check for syntactical errors.
+c-2. (Error)  Output error message.
+
+d-1. (Exit) Terminate program.
+
+e-1. (Man)Create documentation strings.
+e-2. (Man) Get and output contents of documentation files based on command arguments.
+
+f-1. (FileSystem) Create new node and add to tree appropriately.
+
+g-1. (PrintWorkingDirectory) Traverse through tree to get the full current path.
+g-2. (PrintWorkingDirectory) Use output class to print the full current path.
+
+These tasks are assigned as follows:
+
+User: Andy
+Tasks: b-1, b-2, f-1
+
+User: Mutasem
+Tasks: a-1, a-2, e-1, e-2
+
+User: Salik
+Tasks: c-1, c-2
+
+User: Nazmus
+Tasks: d-1, g-1, g-2

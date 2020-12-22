@@ -1,0 +1,13 @@
+Class name: Output
+Parent class: none
+Subclass: none
+
+Responsibilities:
+* Print strings to user
+* Append/overwrite string to given file
+
+Collaborators: 
+* ErrorChecker
+* FileSystem
+* File
+* Directory

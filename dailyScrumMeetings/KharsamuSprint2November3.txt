@@ -1,0 +1,8 @@
+a) What did I work on in the last three days? 
+	I continued to fix the history and the cat class.
+
+b) What do I plan to work in the next three days?
+	Going to work on List Class and fix some of the issues in the cat class.
+	
+c) Am I blocked on anything?  
+	Error class.

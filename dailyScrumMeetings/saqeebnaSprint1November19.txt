@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    -Edited errorchecker to account for mkdir, man
+    -Created and implemented Remove class
+
+What do I plan to work in the next three days?
+    -Redirection
+
+Am I blocked on anything?  
+    -Redirection

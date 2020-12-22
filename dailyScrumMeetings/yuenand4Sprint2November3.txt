@@ -1,0 +1,7 @@
+a) what did I work on in the last three days
+	Finsihed Pop/Push Cmd class
+b) What do I plan to work in the next three days?
+	Demo add functionality for lists
+c) Am I blocked on anything
+	None as so far
+	

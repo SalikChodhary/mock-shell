@@ -1,0 +1,10 @@
+Class Name: Directory
+Parent class: None
+ 
+Responsibilities: 
+* Store/retrieve children of Directory
+* Add new children
+
+Collaborators: 
+* Node
+* File

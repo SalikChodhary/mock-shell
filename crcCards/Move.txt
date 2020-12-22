@@ -1,0 +1,13 @@
+Class name: Move
+Parent class: Command
+Subclasses: None
+
+Responsibilities:
+*Moves a directory or file to another path
+
+Collaborators:
+*Directory
+*File
+*FileSystem
+*IFileSystem
+*ErrorChecker

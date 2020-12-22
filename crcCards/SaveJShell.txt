@@ -1,0 +1,10 @@
+Class Name: SaveJShell
+Parent class: Command
+ 
+Responsibilities: 
+* Save state of current File System to data file
+
+Collaborators: 
+* FileSystem
+* History
+* DirStack

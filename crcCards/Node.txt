@@ -1,0 +1,8 @@
+Class Name: Node
+Parent class: N/A
+ 
+Responsibilities: 
+* Set/get parent of Node
+* Set/get name of Node
+
+Collaborators: None

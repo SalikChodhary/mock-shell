@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+    - JUnit testing for curl and cd
+    - improved existing classes for easier testing
+    - Finished up filesystem mockobject
+    - Save and load with nazmus
+
+What do I plan to work in the next three days?
+    - JUnit testing
+    - Finishing touches
+    - Javadocs
+
+Am I blocked on anything?  
+    - nothing

@@ -1,0 +1,8 @@
+What did I work on in the last three days?
+	Fixed errors in the copy class and implemented move and tree class
+
+What do I plan to work in the next three days?
+    - Write junit tests
+
+Am I blocked on anything?  
+    - nothing

@@ -1,0 +1,14 @@
+Class Name: FileSystem
+Parent class: None
+ 
+Responsibilities: 
+* Hold the state of the file system, including all directories and files
+* Keep track of current working directory
+* Update/get current working directory
+* Traverse through directories
+* Provide utility functions to remove nodes and get path
+
+Collaborators: 
+* Directory
+* File
+* Node

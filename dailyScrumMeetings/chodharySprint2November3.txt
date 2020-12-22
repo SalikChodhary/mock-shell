@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+    - Impproved on mkdir and cd functionaity
+    - added some error checking
+    - worked on parser collaboration with history
+    - fixed some edge cases 
+
+What do I plan to work in the next three days?
+    - Discuss tasks for last sprint
+    - Demo to TA
+    - Employ ErrorCheck class to mkdir and cd
+    - Work on adding functionality for redirection and echo
+
+Am I blocked on anything?  
+    - nothing

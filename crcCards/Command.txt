@@ -1,0 +1,12 @@
+Class Name: Command
+Subclass: ChangeDirectory, Concatenate, Copy, Curl, Echo, Exit, History, ListDirectory, LoadJShell, MakeDirectory, Manual, Move, PopDirectory, PrintWorkingDirectory, PushDirectory, Remove, SaveJShell, Search, Tree
+
+Responsibilities: 
+* Run user commands
+* Store/retrieve raw user input
+* Store/retrieve arguments
+
+Collaborators: 
+* Output
+* FileSystem
+* StandardError

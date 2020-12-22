@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+    -Nothing  
+
+What do I plan to work in the next three days?
+    -Work on echo
+    -Create echo class and add functionality
+    -Create function to overwrite text
+    -Append text to a file
+    -Create function to print to shell
+    -create validation methods for all possible arguments
+    -check for command execution errors
+
+Am I blocked on anything?  
+    -nothing at the moment

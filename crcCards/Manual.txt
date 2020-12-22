@@ -1,0 +1,8 @@
+Class name: Manual
+Parent class: Command
+Subclasses: None
+
+Responsibilities:
+*Print the Manual of the given command
+
+Collaborators: None

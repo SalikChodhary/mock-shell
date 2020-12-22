@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+    - Finished up new redirection system
+    - Setup new filesystem interface, to allow dependency injection
+    - Initialized filesystem mockobject
+
+What do I plan to work in the next three days?
+    - saveJShell
+    - loadJShell
+    - Finish up filesystem mockobject
+    - JUnit Testing
+
+Am I blocked on anything?  
+    - nothing

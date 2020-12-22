@@ -1,0 +1,10 @@
+Class Name: Redirection
+Parent class: N/A
+ 
+Responsibilities: 
+* Define redirection accepted commands
+* Provide functionality to get redirection data, such as path and type of redirection
+* Set raw user input for commands
+
+Collaborators: 
+* Command

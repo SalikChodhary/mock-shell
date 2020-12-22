@@ -1,0 +1,13 @@
+Class name: Tree
+Parent class: Command
+Subclasses: None
+
+Responsibilities:
+*Prints a visual representation of the filesystem
+
+Collaborators:
+*Directory
+*File
+*FileSystem
+*Node
+*IFileSystem

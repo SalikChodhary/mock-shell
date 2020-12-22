@@ -1,0 +1,14 @@
+Class name: Copy
+Parent class: Command
+Subclasses: None
+
+Responsibilities:
+*Copies a directory or file to another path
+
+Collaborators:
+*Directory
+*File
+*FileSystem
+*Node
+*IFileSystem
+*ErrorChecker

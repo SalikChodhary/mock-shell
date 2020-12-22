@@ -1,0 +1,7 @@
+Class Name: File
+Parent class: Node
+ 
+Responsibilities: 
+* Store/retrieve current contents of file
+
+Collaborators: None

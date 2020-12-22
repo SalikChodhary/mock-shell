@@ -1,0 +1,34 @@
+Class Name: Parser
+Parent class: None
+ 
+Responsibilities: 
+* Parser User input
+* Call respective command
+* Check for valid args length
+* Get redirection data, and pass on to Output
+
+Collaborators: 
+* StandardError
+* ErrorChecker
+* History
+* Command
+* Exit
+* MakeDirectory
+* ChangeDirectory
+* PrintWorkingDirectory
+* PopDirectory
+* PushDirectory
+* Concatenate
+* ListDirectory
+* Manual
+* Echo
+* Curl
+* Search
+* Copy
+* saveJShell
+* loadJShell
+* Move
+* Tree
+* Pair
+* Redirection
+* Output

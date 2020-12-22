@@ -1,0 +1,18 @@
+What did I work on in the last three days?
+    -Worked on echo
+    -Created echo class and add functionality
+    -Created function to overwrite text
+    -Appended text to a file
+    -Created function to print to shell
+    -created validation methods for all possible arguments
+    -checked for command execution errors 
+    -did testing
+    -commented all code
+    -added crcCards
+    -added general improvements to all code 
+
+What do I plan to work in the next three days?
+    -nothing    
+
+Am I blocked on anything?  
+    -nothing at the moment

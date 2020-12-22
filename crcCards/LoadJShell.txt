@@ -1,0 +1,10 @@
+Class Name: LoadJShell
+Parent class: Command
+ 
+Responsibilities: 
+* Load state of File System from saved data file
+
+Collaborators: 
+* FileSystem
+* History
+* DirStack

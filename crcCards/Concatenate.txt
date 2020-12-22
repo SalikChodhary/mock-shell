@@ -1,0 +1,13 @@
+Class name: Concatenate
+Parent class: Command
+Subclasses: None
+
+Responsibilities:
+*Print the concatenated contents of a list of files to the user
+
+Collaborators:
+*Directory
+*File
+*FileSystem
+*Node
+*IFileSystem

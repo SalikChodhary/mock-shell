@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    -discussed about which crcCards we should be using as our main model
+
+What do I plan to work in the next three days?
+    -complete the terminate program class
+    -complete print working directory 
+
+Am I blocked on anything?  
+    -nothing at the moment

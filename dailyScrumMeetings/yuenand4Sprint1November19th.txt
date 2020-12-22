@@ -1,0 +1,7 @@
+a) what did I work on in the last three days
+	I workedon implementing the The file manager by starting on a M-ary tree 	structure
+b) What do I plan to work in the next three days?
+	finish implemeting the tree and 
+c) Am I blocked on anything
+	might need to discuss with teamates about what data and methods the node 
+	strutcure should need

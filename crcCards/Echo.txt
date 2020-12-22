@@ -1,0 +1,9 @@
+Class name: Echo
+Parent class: Command
+Subclass: none
+
+Responsibilites:
+*Repeats text back to standard out or to a file
+
+Collaborators:
+*ErrorChecker

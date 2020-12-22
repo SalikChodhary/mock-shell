@@ -1,0 +1,49 @@
+//Sprint 1 Backlog.
+Nov 16th to 22nd
+
+Tasks to be done:
+1) Discuss CRC cards and choose the most fitting design.
+2) Add JUnit Testing
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I want to be able to capture the output of commands into files.
+b) As a user, I want to be able to remove directories and all their contents.
+c) As a user, I want to be able to create as many directories as I want.
+d) As a user, I want to be able to recursively list the contents of a list of directories.
+e) As a user, I want to be able to move a file/directory to a new location.
+f) As a user, I want to be able to copy a file/directory to a new location.
+g) As a user, I want to be able to download files through a URL.
+h) As a user, I want to be able to see the manual for only one command.	
+
+Specific tasks to be accomplished:
+
+a-1. (Redirection) Extend redirection to other classes 
+
+b-1. (Remove) Create and implement Remove class
+
+c-1. (MakeDirectory)(ErrorChecker) Edit ErrorChecker to accept 1 or more arguments for MakeDirectory.
+
+d-1. (ListDirectory) Edit ListDirectory class to recursively list all subdirectories.
+
+e-1. (Move) Create and implement Move class. 
+
+f-1. (Copy) Create and implement Copy class. 
+
+g-1. (Curl) Create and implement Curl class. 
+
+h-1. (Manual) Edit Manual class to only allow one argument.
+h-2. (Manual) Update class manuals.
+
+These tasks are assigned as follows:
+
+User: Andy
+Tasks: d-1
+
+User: Mutasem
+Tasks: e-1, f-1, h-1, h-2 
+
+User: Salik
+Tasks: a-1, g-1
+
+User: Nazmus
+Tasks: a-1, c-1, b-1

@@ -1,0 +1,10 @@
+Class Name: Curl
+Parent class: Command
+ 
+Responsibilities: 
+* Get document from web, given URL
+
+Collaborators: 
+* Output
+
+

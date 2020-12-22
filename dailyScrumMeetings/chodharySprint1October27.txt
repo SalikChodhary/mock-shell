@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Worked on parser class
+    - Worked on command parent class 
+    - Helped Andy with FileSystem design
+
+What do I plan to work in the next three days?
+    - Add more features to the FileSystem Class
+    - Discuss sprint 2 with team and work on any tasks assigned to me
+
+Am I blocked on anything?  
+    - nothing

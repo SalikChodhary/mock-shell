@@ -1,0 +1,7 @@
+a) what did I work on in the last three days
+	Worked On LS cmd
+b) What do I plan to work in the next three days?
+	Testing if LS works with Files
+c) Am I blocked on anything
+	When Echo is complete, we can do more testing
+	

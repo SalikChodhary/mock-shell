@@ -1,0 +1,61 @@
+//Sprint 3 Backlog.
+Nov 4th to Nov 10th 
+
+Tasks to be done:
+1) Finalize CRC cards.
+
+User Stories from Product Backlog that we will address in this sprint:	
+a) As a user, I want to be able to print the contents of a list of files.
+b) As a user, I want to be able to receive a message for errors about bad input.			
+c) As a user, I want to be able to receive a message for command execution errors.		
+d) As a user, I want to be able to check if a list of files exist.				
+e) As a user, I want to be able to check if a list of directories exist.			
+f) As a user, I want to be able to print the name of a file given its path.
+g) As a user, I want to be able to print the contents of a list of directories.
+h) As a user, I want to be able to print text.
+i) As a user, I want to be able to overwrite the text in a file with new text.
+j) As a user, I want to be able to append text to a file.
+k) As a user, I want to be able to create a new file.
+
+
+Specific tasks to be accomplished:
+
+a-1. (Concatenate) Fix errors in finding file
+
+b-1. (ErrorCheck) Create validation methods for all possible arguments
+
+c-1. ({AnyClass}) Check for command execution errors 
+
+d-1. (List) Create List Class
+d-2. (List) Create function to check if file exists
+
+e-1. (List) Create function to check if directory exists
+
+f-1. (List) Create function to print name of file given its path
+
+g-1. (List) Create function to print contents of a directory
+
+h-1. (Echo) Create Echo class
+h-2. (Echo) Create function to print text in shell
+
+i-1. (Echo)(Output) Create function to overwrite text in a file through the Output class 
+i-2. (Output) Edit Output class to allow for redirection
+i-3. (Command) Edit Command Class to call the correct Output function
+
+j-1. (Echo)(Output) Create function to append text in a file through the Output class 
+
+k-1. (Echo) Create function to create new files if file does not exist
+
+These tasks are assigned as follows:
+
+User: Andy
+Tasks:  c-1, e-1, f-1, g-1
+
+User: Mutasem
+Tasks: a-1, c-1, d-1, d-2
+
+User: Salik
+Tasks: c-1, i-2, i-3, k-1
+
+User: Nazmus
+Tasks: b-1, c-1, h-1, h-2, i-1, j-1

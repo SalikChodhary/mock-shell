@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    -finished print working directory    
+
+What do I plan to work in the next three days?
+    -create and initialize ErrorCheck class
+    -create validation methods for all possible arguments
+    -check for command execution errors
+
+Am I blocked on anything?  
+    -nothing at the moment

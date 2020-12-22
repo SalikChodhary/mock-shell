@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    -SaveJShell and LoadJShell
+
+What do I plan to work in the next three days?
+    -SaveJShell and LoadJShell
+    -JUnit Testing and mock objects
+
+Am I blocked on anything?  
+    -nothing

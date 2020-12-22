@@ -1,0 +1,6 @@
+a) what did I work on in the last three days
+	Fixed bugs for LS and worked out how to return output
+b) What do I plan to work in the next three days?
+	Search cmd
+c) Am I blocked on anything
+	None so far

@@ -1,0 +1,11 @@
+Class name: PushDirectory
+Parent class: Command
+Subclasses: None
+
+Responsibilities:
+*Pushes current directory path onto Stack while moving to new specified path
+
+
+Collaborators:
+*FileSystem
+*Stack

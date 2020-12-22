@@ -1,0 +1,9 @@
+a) What did I work on in the last three days? 
+	I finished, commented and edited all of code.
+	Also tested and fixed crc cards.
+
+b) What do I plan to work in the next three days?
+	N/A
+	
+c) Am I blocked on anything?  
+	N/A

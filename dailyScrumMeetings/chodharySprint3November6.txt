@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Improved on mkdir and cd functionaity
+    - added some error checking
+    - did some testing on teammates work, and found potential errors
+
+What do I plan to work in the next three days?
+    - Work on echo functionality
+    - Add redirection of some sort
+
+Am I blocked on anything?  
+    - nothing

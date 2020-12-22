@@ -1,0 +1,12 @@
+Class name: PopDirectory
+Parent class: Command
+Subclasses: None
+
+Responsibilities:
+*Moves current directory to new directory specified by popping a path in Stack
+
+
+Collaborators:
+*FileSystem
+*Stack
+

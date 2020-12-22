@@ -1,0 +1,9 @@
+Class name: PrintWorkingDirectory
+Parent class: Command
+Subclass: none
+
+Responsibilities: 
+*Prints the current working directory to the user
+
+Collaborators:
+*FileSystem

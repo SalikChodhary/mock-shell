@@ -1,0 +1,7 @@
+a) what did I work on in the last three days
+	Work the outline for Push, Pop and Stack class
+b) What do I plan to work in the next three days?
+	Finishing the cmds Pop and Push
+c) Am I blocked on anything
+	Might need help on interaction between FileSystem
+	

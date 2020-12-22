@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+	implmented copy class and edited old commadns to make them more compatible with new design
+
+What do I plan to work in the next three days?
+    - Test copy and implement move functionality
+    - Write junit tests
+
+Am I blocked on anything?  
+    - nothing

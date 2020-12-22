@@ -1,0 +1,25 @@
+User Story                                                                                  | Time (hours)
+_________________________________________________________________________________________________________________
+As a user, I want to be able to capture the output of commands into files.			2
+
+As a user, I want to be able to remove directories and all their contents.			1
+
+As a user, I want to be able to create as many directories as I want.			0.5
+
+As a user, I want to be able to recursively list the contents of a list of directories.	1
+
+As a user, I want to be able to move a file/directory to a new location.			0.5
+
+As a user, I want to be able to copy a file/directory to a new location.			1
+
+As a user, I want to be able to download files through a URL.				1
+
+As a user, I want to be able to see the manual for only one command.				0.5
+
+As a user, I want to be able to save the state of the program.				2
+
+As a user, I want to be able to load a previously saved program.				3
+
+As a user, I want to be able to search for files or directories.				2
+
+As a user, I want to be able to see a visual representation of the filesystem.		2

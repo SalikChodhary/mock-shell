@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    -Fixed echo for Redirection
+    -Added and fixed errorchecking in Remove
+
+What do I plan to work in the next three days?
+    -SaveJShell and LoadJShell
+
+Am I blocked on anything?  
+    -nothing

@@ -1,0 +1,10 @@
+Class name: StandardError
+Parent class: none
+Subclass: none
+
+Responsibilites: 
+*Store all errors for a given command
+*Print all errors for a given command
+
+Collaborators: 
+*Output

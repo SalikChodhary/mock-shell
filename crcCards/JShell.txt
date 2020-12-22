@@ -1,0 +1,11 @@
+Class name: JShell
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+*Prompts and waits for user input
+*Sends user input to the Parser
+
+Collaborators:
+*Parser
+*StandardError

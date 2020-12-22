@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    - discussed about crcCards with team and made a tentative design, worked on product backlog
+
+What do I plan to work in the next three days?
+    - complete parser, and possibly add a lexer class
+    - work on invalid command errors
+
+Am I blocked on anything?  
+    - nothing

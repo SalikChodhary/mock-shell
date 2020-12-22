@@ -1,0 +1,40 @@
+//Sprint 1 Backlog.
+Nov 16th to 22nd
+
+Tasks to be done:
+1) Discuss CRC cards and choose the most fitting design.
+2) Add JUnit Testing and make Mock objects
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I want to be able to save the state of the program.
+b) As a user, I want to be able to load a previously saved program.
+c) As a user, I want to be able to search for files or directories.
+d) As a user, I want to be able to see a visual representation of the filesystem.
+e) As a user, I want to be able to move a file/directory to a new location.  	
+
+Specific tasks to be accomplished:
+
+a-1. (SaveJShell) Create and implement SaveJShell class. 
+
+b-1. (LoadJShell) Create and implement LoadJShell class.
+
+c-1. (Search) Create and implement Search class.
+
+d-1. (Tree) Create and implement Tree class.
+
+e-1. (Move) Create and implement Move class. 
+
+
+These tasks are assigned as follows:
+
+User: Andy
+Tasks: c-1
+
+User: Mutasem
+Tasks: e-1, d-1
+
+User: Salik
+Tasks: task2, a-1, b-1
+
+User: Nazmus
+Tasks: task2, a-1, b-1

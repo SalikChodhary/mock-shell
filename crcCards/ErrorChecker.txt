@@ -1,0 +1,12 @@
+Class name: ErrorChecker
+Parent class: none
+Subclass: none
+
+Responsibilites:
+*Check for generic errors
+*Check if number of arguments for a given command is valid
+*Check if file name or directory name is valid
+*Check if a string is a valid string as per the requirements in this shell
+*Check if a path has consecutive slashes
+
+Collaborators: None

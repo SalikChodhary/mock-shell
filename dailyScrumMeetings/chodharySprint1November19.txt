@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - implemented curl functionality
+    - initial setup for new redirection 
+    - refactored run() command, to make testing easier
+
+What do I plan to work in the next three days?
+    - Complete new redirection functionality
+    - Write junit tests for curl
+
+Am I blocked on anything?  
+    - nothing

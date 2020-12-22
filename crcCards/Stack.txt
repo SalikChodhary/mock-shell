@@ -1,0 +1,12 @@
+Class name: DirStack
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+*Keeps track of a stack of directory paths
+*pushes a given path onto stack
+*pops and returns path form the stack
+
+
+Collaborators:
+

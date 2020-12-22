@@ -1,0 +1,7 @@
+a) What did I work on in the last three days? 
+	Created and implemented the concatenate as well as the history class.
+
+b) What do I plan to work in the next three days?
+	Do some error checking.
+c) Am I blocked on anything?  
+	Error Class

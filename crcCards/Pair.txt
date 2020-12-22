@@ -1,0 +1,9 @@
+Class name: Pair
+Parent class: none
+Subclass: none
+
+Responsibilities:
+* Hold data in the form of a pair, i.e. (x, y)
+
+Collaborators: 
+None

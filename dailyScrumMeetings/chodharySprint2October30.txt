@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - Finished mkdir functionality
+    - Finished cd functionality
+    - Finihsed up FileSystem functionality
+
+What do I plan to work in the next three days?
+    - Employ ErrorCheck class to vaidate args for cd and mkdir
+    - Initiate History class in parser class
+
+Am I blocked on anything?  
+    - History class implementation
+    - ErroCheck class

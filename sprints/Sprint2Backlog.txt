@@ -1,0 +1,64 @@
+//Sprint 2 Backlog.
+Oct 28th to Nov 3rd 
+
+Tasks to be done:
+1) Commit and finalize CRC cards.
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I want to be able to navigate through the file system.
+b) As a user, I want to be able to create directories.	
+c) As a user, I want to be able to print the full path of the current working directory.
+d) As a user, I want to be able to change the current directory to any other directory.
+e) As a user, I want to be able to save the current working directory into a list		
+	   of previously saved directories.
+f) As a user, I want to be able to change directory into the most recently saved directory.
+g) As a user, I want to be able print a list of recent commands and syntactical errors.
+h) As a user, I want to be able to print the contents of a list of files.
+i) As a user, I want to be able to receive a message for errors about bad input.			
+j) As a user, I want to be able to receive a message for command execution errors.			
+
+
+Specific tasks to be accomplished:
+
+a-1. (FileSystem) Add a functionality for traversing through the file system
+
+b-1. (MakeDirectory)  Collaborate with FileSystem to create a directory (node)
+
+c-1. (PrintWorkingDirectory) Collaborate with FileSystem to get the full path
+
+d-1. (ChangeDirectory) Collobrate with FileSystem to traverse to new directory 
+
+e-1. (DirectoryStack) Create class DirectoryStack and initialize it for collaboration with PushDirectory and PopDirectory
+e-2. (PushDirectory) Create and intialze PushDirectory Class
+e-3. (PushDirectory) Collaborate with DirectoryStack to add to the stack of directories
+
+
+f-1. (PopDirectory) Create and initialize PopDirectory Class
+f-2. (PopDirectory) Collaborate with DirectoryStack to remove to the stack of directories
+f-3. (ChangeDirectory) Collaborate with ChangeDirectory to cd into removed directory
+
+g-1. (History) Create and initialize history class 
+g-2. (Parser) Edit Parser to collaborate with history class 
+
+h-1. (Concatenate) Create and initialize concatenate class 
+h-2. (Concatenate) Collaborate with the FileSystem to get contents of file
+h-3. (Concatenate) Collaborate with OutPut class to print contents of file
+
+i-1. (ErrorCheck) Create and initialize ErrorCheck class
+i-2. (ErrorCheck) Create validation methods for all possible arguments
+
+j-1. ({AnyClass}) Check for command execution errors  
+
+These tasks are assigned as follows:
+
+User: Andy
+Tasks: e-1, e-2, e-3, f-1, f-2, f-3, j-1
+
+User: Mutasem
+Tasks: h-1, h-2, h-3, j-1, g-1
+
+User: Salik
+Tasks: a-1, b-1, d-1, g-2
+
+User: Nazmus
+Tasks: i-1, i-2, c-1, j-1

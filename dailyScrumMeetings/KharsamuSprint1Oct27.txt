@@ -1,0 +1,8 @@
+a) What did I work on in the last three days? 
+	I worked on Jshell class and edit the main function to be a take input and work with the parser class
+	Created the man class and all the manuals and the class's implementation 
+
+b) What do I plan to work in the next three days?
+	Going to create and implement the concatenate as well as the history class.
+c) Am I blocked on anything?  
+	Nothing I am blocked on yet.

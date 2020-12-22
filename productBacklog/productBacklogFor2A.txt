@@ -1,0 +1,46 @@
+User Story                                                                                  | Time (hours)
+_________________________________________________________________________________________________________________
+As a user, I want to be able to receive a message for errors about bad input.			1
+
+As a user, I want to be able to receive a message for syntactical errors.				0.5
+
+As a user, I want to be able to receive a message for command execution errors.			2
+
+As a user, I want to able to interact with the shell.						2
+
+As a user, I want to be able to quit the program.							0.5
+
+As a user, I want to be able to create directories.							1
+
+As a user, I want to be able to change the current directory to any other directory.		2.5
+
+As a user, I want to be able to print the contents of a list of directories.				2
+
+As a user, I want to be able to check if a list of files exist.					0.5
+
+As a user, I want to be able to check if a list of directories exist.				0.5
+
+As a user, I want to be able to print the name of a file given its path.				0.5
+
+As a user, I want to be able to print the full path of the current working directory.		1
+
+As a user, I want to be able to save the current working directory into a list			0.5
+	   of previously saved directories.
+	
+As a user, I want to be able to change directory into the most recently saved directory.		0.5
+
+As a user, I want to be able print a list of recent commands and syntactical errors.		1
+
+As a user, I want to be able to print the contents of a list of files.				1
+
+As a user, I want to be able to print text.								0.5
+
+As a user, I want to be able to overwrite the text in a file with new text.				1
+
+As a user, I want to be able to append text to a file.						1
+
+As a user, I want to be able to print the documentation for a list of commands.			2.5
+
+As a user, I want to be able to create a new file.							1
+
+As a user, I want to be able to navigate through the file system.					1

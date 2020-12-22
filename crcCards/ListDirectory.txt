@@ -1,0 +1,11 @@
+Class name: ListDirectory
+Parent class: Command
+Subclasses: None
+
+Responsibilities:
+*Checks if specified files exists and returns it's path if it does
+*Checks if specified directories exists and ouptuts it's contents if it does
+*Recursivly Outputs contents of directories
+Collaborators:
+*FileSystem
+

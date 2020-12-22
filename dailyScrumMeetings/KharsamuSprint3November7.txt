@@ -1,0 +1,8 @@
+a) What did I work on in the last three days? 
+	I fixed the cat class.
+
+b) What do I plan to work in the next three days?
+	Going to work on List Class.
+	
+c) Am I blocked on anything?  
+	Nothing
